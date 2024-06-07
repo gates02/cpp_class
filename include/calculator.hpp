@@ -1,3 +1,5 @@
-int Calculator::Add(int a, int b) {}
-
-int Calculator::Multiply(int a, int b) {}
+class Calculator{
+    public:
+        Add(int a, int b){};
+        Multiply(int a, int b){};
+};
